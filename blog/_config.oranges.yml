@@ -129,9 +129,17 @@ friends:
     site: https://sunnysab.cn/
     meta: 一个rust开发者的世界
   -
-    nickname: hexo
-    site: https://hexo.io/
-    meta:
+    nickname: imovie
+    site: https://www.libvio.me/
+    meta: 看电影电视动漫就用他
+  -
+    nickname: picture
+    site: https://m.dumanwu.com/
+    meta: 看漫画的地方
+  -
+    nickname: chatGPT
+    site: https://chat18.aichatosai.com/#/chat/1735540944251
+    meta: 国内AI（失效后请联系更新）
 
 # 页脚信息
 footer:
