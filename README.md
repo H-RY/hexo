@@ -1,0 +1,2 @@
+# hexo
+write somethings
