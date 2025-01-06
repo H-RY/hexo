@@ -27,7 +27,8 @@ favicon:
 # 用户头像与昵称
 avatar:
   author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_nickname: Huang Riyu
+  customvar: abc
   path: /
 
 # Google 分析
@@ -57,9 +58,9 @@ comments:
   valine:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
-    enable: false
-    appId:
-    appKey:
+    enable: true
+    appId: nyRspGwGgVM9RJD3ZeUAMIaD-gzGzoHsz
+    appKey: H9K1pHBag6iqt2dBMWcnxXQ0
     placeholder: Welcome!
     avatar: retro
     vempty_display: false
@@ -96,7 +97,7 @@ navbar:
     key: categories
   -
     name: Tags
-    enable: true
+    enable: false
     path: /tags/
     key: tags
   -
@@ -124,11 +125,11 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Zcheng
-    site: https://zcheng.site/
-    meta:
+    nickname: sunnysab的博客
+    site: https://sunnysab.cn/
+    meta: 一个rust开发者的世界
   -
-    nickname: Hexo
+    nickname: hexo
     site: https://hexo.io/
     meta:
 
@@ -145,23 +146,23 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
-    # -
-    #   name: email
-    #   icon: envelope
-    #   path: 
-    # -
-    #   name: facebook
-    #   icon: facebooksquare
-    #   path:
-    # -
-    #   name: twitter
-    #   icon: twitter
-    #   path:
-    # -
-    #   name: wechat
-    #   icon: wechat
-    #   path:
+      path: https://github.com/H-RY
+    #-
+    #  name: wechat
+    #  icon: /images/wechat-fill.png
+    #  path: 
+    #-
+    #  name: bilibili
+    #  icon: /images/bilibili-fill.png
+    #  path:
+    #-
+    #  name: qq
+    #  icon: /images/qq-line.png
+    #  path:
+    #-
+    #  name: zhihu
+    #  icon: /images/zhihu-line.png
+    #  meta: 
     # -
     #   name: weibo
     #   icon: weibo
@@ -178,7 +179,7 @@ footer:
     # 一般用来显示根据各种场景需要切换的文本，如时间年份
     # 如：{thisYear} 会被替换为今年年份
     -
-      name: Copyright © {thisYear} Oranges
+      name: Copyright © {thisYear} HRY
       path: https://github.com/zchengsite/hexo-theme-oranges
     -
       name: Theme by Oranges | Powered by Hexo
