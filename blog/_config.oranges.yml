@@ -155,26 +155,26 @@ footer:
       name: github
       icon: github
       path: https://github.com/H-RY
-    #-
-    #  name: wechat
-    #  icon: /images/wechat-fill.png
-    #  path: 
-    #-
-    #  name: bilibili
-    #  icon: /images/bilibili-fill.png
-    #  path:
-    #-
-    #  name: qq
-    #  icon: /images/qq-line.png
-    #  path:
-    #-
-    #  name: zhihu
-    #  icon: /images/zhihu-line.png
-    #  meta: 
     -
-      name: rss
-      icon: rss
-      path: /atom.xml
+      name: wechat
+      icon: wechat-fill
+      path: /images/wechat.png
+    -
+      name: qq
+      icon: qq-line
+      path: /images/qq.png
+    -
+      name: bilibili
+      icon: bilibili-fill
+      path: https://space.bilibili.com/457421988?spm_id_from=333.1007.0.0
+    -
+      name: zhihu
+      icon: zhihu
+      path: https://www.zhihu.com/people/ying-ying-ying-68-32
+    -
+      name: steam
+      icon: steam
+      path: https://steamcommunity.com/profiles/76561198925692261/
     # -
     #   # rss需安装 hexo-generator-feed 插件
     #   # 具体参照https://github.com/hexojs/hexo-generator-feed
