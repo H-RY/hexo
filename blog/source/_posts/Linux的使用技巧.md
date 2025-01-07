@@ -18,3 +18,9 @@ grep -rn
 
 sudo chown -R tina:tina * 
 
+
+
+### ssh技巧
+
+linux 下有个包叫 sshpass（不用输密码）
+密钥改变了 IP 没变时，ssh-keygen -R 你要连的IP，然后重新 ssh
