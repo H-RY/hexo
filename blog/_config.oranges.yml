@@ -171,10 +171,10 @@ footer:
     #  name: zhihu
     #  icon: /images/zhihu-line.png
     #  meta: 
-    # -
-    #   name: weibo
-    #   icon: weibo
-    #   path:
+    -
+      name: rss
+      icon: rss
+      path: /atom.xml
     # -
     #   # rss需安装 hexo-generator-feed 插件
     #   # 具体参照https://github.com/hexojs/hexo-generator-feed
