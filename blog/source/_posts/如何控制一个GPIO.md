@@ -8,7 +8,7 @@ tags:
 
 路径：/sys/class/gpio 下调节GPIO
 
-pin脚值 = （B - A）* 32 + 2
+pin脚值 = （B - A）* 32 + 2 （ASCII码）
 
 
 
